@@ -84,7 +84,7 @@ This project is a tool to find untaken 5-character Instagram usernames, which ar
 
 3. **Run the Script**:
     ```bash
-    python 5lfinderbyk3s63.py
+    python 5lfinderbyxchup.py
     ```
   
 
