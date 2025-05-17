@@ -1,6 +1,6 @@
 # Instagram 5-Letter Username Finder
 
-<img src="./my-image.png" alt="My Image" width="300" align="center" />
+img src="./5ʟꜰɪɴᴅᴇʀʙʏxᴄʜᴜᴩ.png" alt="My Image" width="300" align="center" />
 
 ## About this REPO
 
