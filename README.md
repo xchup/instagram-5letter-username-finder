@@ -1,5 +1,9 @@
 # Instagram 5-Letter Username Finder
 
+<img src="./my-image.png" alt="My Image" width="300" align="center" />
+
+## About this REPO
+
 This project is a tool to find untaken 5-character Instagram usernames, which are considered rare these days. The script generates usernames and checks their availability on Instagram, and it notifies you via Telegram if a good username is found.
 
 ## Features
